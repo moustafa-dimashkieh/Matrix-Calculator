@@ -1,0 +1,2 @@
+# Matrix Calculator
+ This CPP program is a linear calculator that shows the user a menu to choose from. It calculates matrix addition, subtraction, multiplication, inverse, determinant and transpose (the inverse part is not very accurate though). After the user chooses from the menu, the program will ask him/her to enter the number of rows and columns of the matrix. Then, it will ask the user to input the boundaries of the matrix. Finally, it will call the specific function, calculate the results and display them on the screen.
